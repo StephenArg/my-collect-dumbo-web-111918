@@ -6,4 +6,5 @@ def my_collect(collection)
     list.push(what)
     i += 1
   end
+  return list
 end
